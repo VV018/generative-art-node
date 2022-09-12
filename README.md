@@ -7,7 +7,7 @@ Important: There is a new repo for this code.
 
 Create generative art by using the canvas api and node js
 
-![](https://github.com/HashLips/generative-art-node/blob/main/src/preview.png)
+![](https://github.com/VV018/generative-art-node/blob/main/src/Preview.png)
 
 ## Installation
 
