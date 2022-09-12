@@ -1,5 +1,7 @@
 # Welcome to HashLips
 
+At least my version of it :)
+
 Important: There is a new repo for this code:
 [https://github.com/HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine)
 
