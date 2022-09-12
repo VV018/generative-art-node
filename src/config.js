@@ -1,17 +1,35 @@
+/*
 const layersOrder = [
     { name: 'background', number: 1 },
-    { name: 'ball', number: 2 },
-    { name: 'eye color', number: 12 },
-    { name: 'iris', number: 3 },
-    { name: 'shine', number: 1 },
-    { name: 'shine', number: 1 },
-    { name: 'bottom lid', number: 3 },
-    { name: 'top lid', number: 3 },
+    { name: 'Comets', number: 8 },
+    { name: 'Planet_Top', number: 12 },
+    { name: 'Second_Planet_Top', number: 12 },
+    { name: 'Third_Planet_Top', number: 12 },
+    { name: 'Fourth_Planet_Top', number: 12 },
+    { name: 'Fifth_Planet_Top', number: 12 },
+    { name: 'Sixth_Planet_Top', number: 12 },
+    { name: '45_Rings', number: 12 },
+    { name: '270 Rings', number: 12 },
+    { name: '360 Rings', number: 12 },
+
 ];
+*/
+
+const layersOrder = [
+    { name: 'background', number: 1 },
+    { name: 'Comets', number: 8 },
+    { name: 'TerreBack', number: 24 },
+    { name: '45_Rings', number: 12 },
+    { name: '270 Rings', number: 12 },
+    { name: '360 Rings', number: 12 },
+
+];
+
+
   
 const format = {
-    width: 230,
-    height: 230
+    width: 1024,
+    height: 1024
 };
 
 const rarity = [
@@ -20,6 +38,6 @@ const rarity = [
     { key: "_sr", val: "super rare" },
 ];
 
-const defaultEdition = 5;
+const defaultEdition = 500;
 
 module.exports = { layersOrder, format, rarity, defaultEdition };
